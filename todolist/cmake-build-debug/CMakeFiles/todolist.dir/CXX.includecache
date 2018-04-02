@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/haegar/projects/C++/vorlesung/todolist/main.cpp
+iostream
+-
+cstdlib
+-
+string
+-
+fstream
+-
+vector
+-
+
